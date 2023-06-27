@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">todo_app</string>
+    <string name="app_logo">App Logo</string>
+    <string name="welcome_sourabh_to_do_list">Welcome Sourabh To Do List</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="create_account_in_todo_app">Create Account In Todo App</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+    <string name="already_have_an_account_login">Already have an account? Login!!</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">navigation_drawer_open</string>
+    <string name="drawer_close">navigation_drawer_close</string>
+    <string name="add_task">Add Task</string>
+    <string name="you_have_no_todo_in_a_list">You Have No Completed Todo List!!</string>
+</resources>

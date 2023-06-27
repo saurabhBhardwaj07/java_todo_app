@@ -1,0 +1,26 @@
+{
+  "name": "to_do_app",
+  "version": "1.0.0+1",
+  "description": "Android java Node js application database",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.0",
+    "morgan": "^1.10.0",
+    "nodeman": "^1.1.2",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.22"
+  }
+}
