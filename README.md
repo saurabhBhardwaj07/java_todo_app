@@ -26,7 +26,7 @@ This is a todo app with the login, signup and add todo , delete todo , update to
 
 ## Screenshots
 
-![Screenshot_2023-06-29-13-13-41-599_com youngtechie todoapp](https://github.com/sourabhBhradwaj/java_todo_app/assets/87970319/2f679b3b-1c72-443e-8ebb-e18059c44
+![Screenshot_2023-06-29-13-13-41-599_com youngtechie todoapp](https://github.com/sourabhBhradwaj/java_todo_app/assets/87970319/2f679b3b-1c72-443e-8ebb-e18059c44)
 ![Screenshot_2023-06-29-13-13-50-149_com youngtechie todoapp](https://github.com/sourabhBhradwaj/java_todo_app/assets/87970319/8d5acd75-305a-40cc-923f-781b53f236a1)
 d9c)
 
